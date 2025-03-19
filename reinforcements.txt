@@ -1,0 +1,4 @@
+Positive Reinforcement: Bring in a happy(positive) stimuli to increase behaviour
+Negative Reinforcement: Remove an unpleasant(negative) stimuli to increase behaviour
+Positive Punishment: Bring in unpleasant(negative) stimuli to decrease behaviour
+Negative Punishment: Remove happy(positive) stimuli to decrease behaviour
